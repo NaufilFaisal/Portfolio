@@ -1,6 +1,7 @@
+@import url('https://fonts.cdnfonts.com/css/imperator');
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'ImperatorBronze';
   background-color: #040404;
   color: #fff;
   position: relative;
@@ -67,12 +68,14 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'ImperatorBronze';
 }
 
 #header h1 a,
 #header h1 a:hover {
-  color: #fff;
+  color: #F6DB54;
+  text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 15px #F6DB54, 0 0 1px #F6DB54, 0 0 10px #F6DB54, 0 0 30px #F6DB54, 0 0 35px #F6DB54;
   line-height: 1;
   display: inline-block;
 }
