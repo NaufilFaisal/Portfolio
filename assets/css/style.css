@@ -61,7 +61,7 @@ h6 {
 }
 
 #header h1 {
-  font-size: 48px;
+  font-size: 55px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -72,7 +72,7 @@ h6 {
 #header h1 a,
 #header h1 a:hover {
   color: #F6DB54;
-  text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 15px #F6DB54, 0 0 1px #F6DB54, 0 0 10px #F6DB54, 0 0 30px #F6DB54, 0 0 35px #F6DB54;
+  /* text-shadow: 0 0 1px #fff, 0 0 1px #fff, 0 0 15px #F6DB54, 0 0 1px #F6DB54, 0 0 10px #F6DB54, 0 0 30px #F6DB54, 0 0 35px #F6DB54; */
   line-height: 1;
   display: inline-block;
 }
@@ -689,7 +689,7 @@ section .container {
   left: -9px;
   top: 0;
   /* Replace the background color with an image */
-  background-image: url('../img/bulletPoint.jpeg');
+  background-image: url('../img/bulletPoint.png');
   background-size: cover; /* or contain depending on your image */
   /* border: 2px solid #c43917; */
 }
